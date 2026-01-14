@@ -31,7 +31,7 @@ Power Bi Miary KPI:
   - Tabela z filrem TopN ( ukazująca 20 najbardziej dochodowych Przedmiotów w celu przedstawienia co klienci kupują najchętniej)
 
 Podczas tworzenia tego dashboardu, nauczyłem jak się robić Widoki w SQL, Oraz jak porządkować miary stworzone w power Bi. 
-Nauczyłem się również tego czym jest GRAIN i jak ważne jest odpowiendniezaplanowanie tabel w sql na początku rozpoczęcia projektu, aby później
+Nauczyłem się również tego czym jest GRAIN i jak ważne jest odpowiendnie zaplanowanie tabel w sql na początku rozpoczęcia projektu, aby później
 nie było problemu z duplikowaniem wartości przez model danych, a także kilka podstawowych pojęć takich jak:
 Backend, Frontend, Mockup.
 Zrozumiałem też dokładnie jak działa model danych, oraz to  jak powinny być zbudowane tabele faktów ( tylko same id oraz obliczenia). 
